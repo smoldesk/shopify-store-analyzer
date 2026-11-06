@@ -1,5 +1,7 @@
 # Shopify Store Analyzer
 
+![Shopify Store Analyzer](https://raw.githubusercontent.com/smoldesk/apify-scrapers/main/assets/shopify/banner.webp)
+
 Check which apps, theme and tools any Shopify store uses, find its contact details and export its products. Paste domains, no login. Runs on [Apify](https://apify.com/smoldesk/shopify-store-analyzer).
 
 ## What you get
