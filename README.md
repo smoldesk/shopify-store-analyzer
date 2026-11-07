@@ -88,4 +88,4 @@ Turn on `exportShopifyCsv` to build a Shopify import CSV. Check you have the rig
 
 ## More scrapers
 
-Shopify Store Analyzer is one of 18 no-login scrapers by Smoldesk Studios. See the full list: [smoldesk/apify-scrapers](https://github.com/smoldesk/apify-scrapers).
+Shopify Store Analyzer is one of 19 no-login scrapers by Smoldesk Studios. See the full list: [smoldesk/apify-scrapers](https://github.com/smoldesk/apify-scrapers).
