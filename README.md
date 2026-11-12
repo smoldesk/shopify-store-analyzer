@@ -55,13 +55,14 @@ Export as JSON, CSV or Excel, or pipe it into Google Sheets, Make, Zapier or n8n
 
 ## Pricing
 
-Pay per result. No monthly fee.
+Pay per result. No monthly fee. Prices drop on paid Apify plans.
 
-| Result | Per 1,000 |
-|---|---|
-| Shopify store analyzed | $5 |
-| Product exported | $0.50 |
-| Non-Shopify URL | Free |
+| Result (per 1,000) | Free | Starter | Scale | Business |
+|---|---|---|---|---|
+| Shopify store analyzed | $5.00 | $5.00 | $4.40 | $3.75 |
+| Product exported | $0.50 | $0.50 | $0.50 | $0.50 |
+| Non-Shopify URL | Free | Free | Free | Free |
+
 
 ## Limits
 
